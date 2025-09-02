@@ -35,9 +35,9 @@
 ---
 
 ### 📫 How to Reach Me
-<a href="https://www.linkedin.com/in/zonish-fatima/"><img alt="LinkedIn" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/></a>
-<a href="https://github.com/zonish-fatima"><img alt="GitHub" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg"/></a>
-<a href="mailto:zonyshfatyma@gmail.com"><img alt="Email" width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg"/></a>
+<a href="https://www.linkedin.com/in/zonish-fatima/"><img alt="LinkedIn" width="15px" height="15px" style="margin-right:15"  src="https://cdn-icons-png.flaticon.com/512/174/174857.png"/></a>
+<a href="https://github.com/zonish-fatima"><img alt="GitHub" width="15px" height="15px" style="margin-right:15" src="https://cdn-icons-png.flaticon.com/512/733/733553.png"/></a>
+<a href="mailto:zonyshfatyma@gmail.com"><img alt="Email" width="15px" height="15px" style="margin-right:15" src="https://cdn-icons-png.flaticon.com/512/732/732200.png"/></a>
 
 ---
 
