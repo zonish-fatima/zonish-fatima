@@ -23,7 +23,7 @@
 ---
 
 ### 📌 Projects
-- **[Ten Miles Ahead](https://github.com/zonish-fatima/ten_miles_ahead)**  
+- **[Ten Miles Ahead](https://github.com/zonish-fatima/ten_miles_ahead_)**  
   Travel tracking app with an interactive SVG-based U.S. map, trip management, image uploads, and progress tracking.  
 
 - **Farmistan**  
