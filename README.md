@@ -4,7 +4,7 @@
 ---
 
 ### 🚀 About Me
-- 🌱 Flutter Developer with 2 years of experience building **mobile & web apps**.  
+- 🌱 Flutter Developer with 1.5+ years of experience building **mobile & web apps**.  
 - 💻 Skilled in **Flutter, Dart, Firebase, REST APIs, GetX, BLoC, MVVM, Clean Architecture**.  
 - 🎯 Passionate about creating **scalable apps with great UI/UX**.  
 - 🤝 Open to collaboration on innovative mobile and web projects.  
