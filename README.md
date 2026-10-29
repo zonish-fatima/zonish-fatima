@@ -25,7 +25,7 @@ I'm building hands-on experience with **AWS, Linux, networking, cloud infrastruc
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
-**AWS:** EC2 · S3 · IAM · EBS · Auto Scaling · CloudWatch · Lambda · CloudFront
+**AWS:** EC2 · S3 · IAM · EBS · Auto Scaling · CloudWatch · Lambda · CloudFront . Transit Gateway . VPC Peering
 
 **Infrastructure:** Linux · SSH · Networking · Security Groups · Public/Private IPs
 
@@ -53,6 +53,9 @@ This software development background now supports my transition into **Cloud and
 - **AWS S3 & IAM** — S3 versioning, access policies, IAM users and permissions
 - **AWS Auto Scaling & CloudWatch** — Target tracking, scaling policies, monitoring
 - **AWS Networking** — Private IP communication, Security Groups, connectivity troubleshooting
+- **VPC Peering** - Cross region connectivity
+- **Transit Gateway** - Multi region
+- **RDS**  
 
 ### 📱 Software Development
 - **Ten Miles Ahead** — Flutter travel tracking application
